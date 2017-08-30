@@ -1,0 +1,12 @@
+﻿  One.c
+d:\cprogram\jni_helloword\jni_helloword\one.c(32): warning C4047: “函数”:“jobject”与“jstring *”的间接级别不同
+d:\cprogram\jni_helloword\jni_helloword\one.c(32): warning C4024: “通过指针的函数”: 形参和实参 4 的类型不同
+d:\cprogram\jni_helloword\jni_helloword\one.c(35): warning C4047: “函数”:“jstring”与“jstring *”的间接级别不同
+d:\cprogram\jni_helloword\jni_helloword\one.c(35): warning C4024: “通过指针的函数”: 形参和实参 2 的类型不同
+d:\cprogram\jni_helloword\jni_helloword\one.c(35): warning C4133: “函数”: 从“char *”到“const jchar *”的类型不兼容
+d:\cprogram\jni_helloword\jni_helloword\one.c(37): warning C4047: “return”:“jstring”与“jstring *”的间接级别不同
+d:\cprogram\jni_helloword\jni_helloword\one.c(22): warning C4090: “初始化”: 不同的“const”限定符
+d:\cprogram\jni_helloword\jni_helloword\one.c(29): warning C4047: “初始化”:“jstring *”与“jstring”的间接级别不同
+    正在创建库 D:\cProgram\JNI_HelloWord\x64\Debug\JNI_HelloWord.lib 和对象 D:\cProgram\JNI_HelloWord\x64\Debug\JNI_HelloWord.exp
+  JNI_HelloWord.vcxproj -> D:\cProgram\JNI_HelloWord\x64\Debug\JNI_HelloWord.dll
+  JNI_HelloWord.vcxproj -> D:\cProgram\JNI_HelloWord\x64\Debug\JNI_HelloWord.pdb (Full PDB)
