@@ -1,7 +1,8 @@
 # JNILearn
 JNI的学习  
 ### 8月31号
-#### 简单的JNI流程示例。  
+#### 简单的JNI流程示例。  
+**开发工具：** eclipse，用于编写native方法和加载动态库。 vs2015.用于编写jni代码，生成动态库。
 * 1、编写native方法
 ```
 	private native static String getStringFromC();
